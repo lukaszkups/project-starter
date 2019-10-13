@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-console": "off",
+    "space-before-function-paren": "off",
+    "max-len": "off",
+    "no-prototype-builtins": "off",
+    "no-else-return": "off"
+  }
+}
